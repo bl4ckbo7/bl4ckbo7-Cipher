@@ -1,5 +1,5 @@
 //bl4ckbo7 CRYPTOSYSTEM (With (Encryption + Decryption) functions)
-//Coded by Andy Kawa - bl4ckbo7
+//Coded by bl4ckbo7
 //February 1, 2017
 
 #include <iostream>
